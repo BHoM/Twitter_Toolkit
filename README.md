@@ -1,7 +1,7 @@
 # Twitter_Toolkit
 Query twitter using standard and premium API
 
-![Using the Twitter_Toolkit Premium](link-to-image)
+![Using the Twitter_Toolkit Premium](https://github.com/BHoM/Twitter_Toolkit/blob/master/Example/twitter1.jpg)
 
 Provides access to both the Twitter Free standard API and the subscription based Premium API.
 Currently set up to provide search only functionality although could be extended to allow posting tweets and control of a user account.
