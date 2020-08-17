@@ -22,7 +22,7 @@
 using BH.oM.Base;
 using System.Collections.Generic;
 
-namespace BH.oM.Twitter
+namespace BH.oM.Adapters.Twitter
 {
     public class TweetResults : BHoMObject
     {

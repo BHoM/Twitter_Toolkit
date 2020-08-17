@@ -19,7 +19,7 @@
  * You should have received a copy of the GNU Lesser General Public License     
  * along with this code. If not, see <https://www.gnu.org/licenses/lgpl-3.0.html>.      
  */
-using BH.oM.Twitter;
+using BH.oM.Adapters.Twitter;
 using BH.oM.Base;
 using System;
 using RestSharp;
@@ -27,7 +27,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.IO;
 
-namespace BH.Engine.Twitter
+namespace BH.Engine.Adapters.Twitter
 {
     public static partial class Convert
     {

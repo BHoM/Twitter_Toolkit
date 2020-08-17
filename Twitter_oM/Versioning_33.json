@@ -1,0 +1,22 @@
+{
+  "Namespace": {
+    "ToNew": {
+      "BH.oM.Twitter": "BH.oM.Adapters.Twitter"
+    },
+    "ToOld": {
+      "BH.oM.Adapters.Twitter": "BH.oM.Twitter"
+    }
+  },
+  "Type": {
+    "ToNew": {
+    },
+    "ToOld": {
+    }
+  },
+  "Property": {
+    "ToNew": {
+    },
+    "ToOld": {
+    }
+  }
+}

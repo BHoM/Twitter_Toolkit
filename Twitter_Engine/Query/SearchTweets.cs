@@ -19,7 +19,7 @@
  * You should have received a copy of the GNU Lesser General Public License     
  * along with this code. If not, see <https://www.gnu.org/licenses/lgpl-3.0.html>.      
  */
-using BH.oM.Twitter;
+using BH.oM.Adapters.Twitter;
 using BH.oM.Base;
 using RestSharp;
 using Newtonsoft.Json;
@@ -32,7 +32,7 @@ using System.Text;
 using System.Security.Cryptography;
 using System.Net;
 
-namespace BH.Engine.Twitter
+namespace BH.Engine.Adapters.Twitter
 {
     public static partial class Query
     {
