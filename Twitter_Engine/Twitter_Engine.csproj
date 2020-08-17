@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2C7C418D-609D-4256-B864-DFE4D9C47A2B}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Twitter_Engine</RootNamespace>
+    <RootNamespace>BH.Engine.Adapters.Twitter</RootNamespace>
     <AssemblyName>Twitter_Engine</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
