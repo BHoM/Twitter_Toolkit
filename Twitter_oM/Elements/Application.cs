@@ -21,7 +21,7 @@
  */
 using BH.oM.Base;
 
-namespace BH.oM.Twitter
+namespace BH.oM.Adapters.Twitter
 {
     public class Application : BHoMObject
     {

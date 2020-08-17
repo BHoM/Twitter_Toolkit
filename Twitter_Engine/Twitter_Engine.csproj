@@ -68,6 +68,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="Versioning_33.json" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Twitter_oM\Twitter_oM.csproj">
